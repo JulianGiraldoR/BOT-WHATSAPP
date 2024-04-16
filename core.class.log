@@ -1,0 +1,2592 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '066902DA9352DE3CB97EFE0EDB7F4686',
+    participant: undefined
+  },
+  messageTimestamp: 1713240857,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '9DCA32BC46B5FF32906AA6E6B0D48045',
+    participant: undefined
+  },
+  messageTimestamp: 1713240873,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'FCC3FB12D5FFAC87F40443E4BBAFB8EE',
+    participant: undefined
+  },
+  messageTimestamp: 1713240903,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '03619C3E0463AD2346B7342B253C616A',
+    participant: undefined
+  },
+  messageTimestamp: 1713241132,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '7E8F664B044326751DD723C23130283F',
+    participant: undefined
+  },
+  messageTimestamp: 1713241136,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'C15234B397F29933B1939B7416ECFA85',
+    participant: undefined
+  },
+  messageTimestamp: 1713241144,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '39AD6AC9BD1CDE55F16E5E7D81A83B38',
+    participant: undefined
+  },
+  messageTimestamp: 1713241199,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'b',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'b',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'EC7E8181FF44EB0FC7640139EEBA32D7',
+    participant: undefined
+  },
+  messageTimestamp: 1713241210,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'c',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'c',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'A78C6E3A43A7F82784049E2C272E99F3',
+    participant: undefined
+  },
+  messageTimestamp: 1713241223,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'c',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'c',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'B731C6171EC5A1CAF64EB687367AA05B',
+    participant: undefined
+  },
+  messageTimestamp: 1713241335,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'D4DA417A7EA15F62A971123E57A1D8BB',
+    participant: undefined
+  },
+  messageTimestamp: 1713241339,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '8813C15C0FE8507CA0D5829FBDA36933',
+    participant: undefined
+  },
+  messageTimestamp: 1713241404,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'd',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'F57331C9A5ADB8BC5D394A51DDC14589',
+    participant: undefined
+  },
+  messageTimestamp: 1713241428,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '8483697F3A284DD8EB53B0D4974F5B71',
+    participant: undefined
+  },
+  messageTimestamp: 1713241433,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '592756F55D6FD2B69DDBC7EADD053B0C',
+    participant: undefined
+  },
+  messageTimestamp: 1713241492,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '9386DCFDE35A1AD9AFEF8939E48BE7C7',
+    participant: undefined
+  },
+  messageTimestamp: 1713241525,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '017C41A1B7918B2F57D488CFFB8FE248',
+    participant: undefined
+  },
+  messageTimestamp: 1713241534,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'b',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'b',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '29CC84721E1B249BA335D69386CFB0F0',
+    participant: undefined
+  },
+  messageTimestamp: 1713241542,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'c',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'c',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '14EC076CB483A80C453438E03C4936F5',
+    participant: undefined
+  },
+  messageTimestamp: 1713241784,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '14F93A30FFB1EE1D2C4EDF243ADEAB24',
+    participant: undefined
+  },
+  messageTimestamp: 1713241797,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '195D8F46D194D3AEE35250FE17128EB7',
+    participant: undefined
+  },
+  messageTimestamp: 1713241803,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '392B29023C5C89748078869C3B500C26',
+    participant: undefined
+  },
+  messageTimestamp: 1713241807,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '716F73DE0F15760B93F379A01B2DCB07',
+    participant: undefined
+  },
+  messageTimestamp: 1713241816,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '0AE1C7F59E3FEC7B65E679B66A76DF37',
+    participant: undefined
+  },
+  messageTimestamp: 1713241953,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD9D1C3B79CB4769B664093F86C0A5AE',
+    participant: undefined
+  },
+  messageTimestamp: 1713241957,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '2DDA8A3C3C1CDEBE29611A3F8775ADA6',
+    participant: undefined
+  },
+  messageTimestamp: 1713241962,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '23DDCD6A31CCFAC70F264174DBAB339F',
+    participant: undefined
+  },
+  messageTimestamp: 1713241970,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'b',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'b',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '5061A46B81356A6DF20BA02B07E05207',
+    participant: undefined
+  },
+  messageTimestamp: 1713241979,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'd',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'D0B8FF14B91E4F470462734761E66589',
+    participant: undefined
+  },
+  messageTimestamp: 1713241988,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'c',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'c',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '33031533EC148DA5AA05DC878AA7D3E0',
+    participant: undefined
+  },
+  messageTimestamp: 1713241993,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'D91841747613FE1BE8AFD366BE96DEED',
+    participant: undefined
+  },
+  messageTimestamp: 1713242026,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'E8165C5D820D52224294251075652DB8',
+    participant: undefined
+  },
+  messageTimestamp: 1713242090,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'C975D8ABF91DCECA2C5D4A2CEBB2E0E6',
+    participant: undefined
+  },
+  messageTimestamp: 1713242140,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '15A1BB22B44976B0724BD4CE6EA47E4A',
+    participant: undefined
+  },
+  messageTimestamp: 1713242176,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'B2924D91C1FB59B4F07483950C28B709',
+    participant: undefined
+  },
+  messageTimestamp: 1713242215,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'F65B662F2CB8FCF4B8044A1A065D6D51',
+    participant: undefined
+  },
+  messageTimestamp: 1713242228,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Carlos Pérez',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Carlos Pérez',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '81952A5528FCBF6E010DE220B627D3BD',
+    participant: undefined
+  },
+  messageTimestamp: 1713242234,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Barrio galán 1#5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Barrio galán 1#5',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '6ABFBDA02171E19604B1A94129C32928',
+    participant: undefined
+  },
+  messageTimestamp: 1713242363,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'F0D06A38B09AC28BC97DB0E622581317',
+    participant: undefined
+  },
+  messageTimestamp: 1713242582,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE3A8B00DC9EF35078179F470EC3989D',
+    participant: undefined
+  },
+  messageTimestamp: 1713242589,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'd',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '57BEF66BEF4FF87A1F0F08132CD90A9F',
+    participant: undefined
+  },
+  messageTimestamp: 1713242592,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '262298937B97F0E7B0C9EC60D4F053EA',
+    participant: undefined
+  },
+  messageTimestamp: 1713242596,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE112259DD8A4D4ECD5FC592FB54DAE7',
+    participant: undefined
+  },
+  messageTimestamp: 1713242644,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '45774FE423A94152E8DDBC9790FB9CF4',
+    participant: undefined
+  },
+  messageTimestamp: 1713242659,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '28BC5C1BE3804BDA82C78DE0239B53DF',
+    participant: undefined
+  },
+  messageTimestamp: 1713242725,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '77E159F90E6CAC1A7CD4505C9102826F',
+    participant: undefined
+  },
+  messageTimestamp: 1713242762,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '5960687542A516E4C29B2AF3485E78C9',
+    participant: undefined
+  },
+  messageTimestamp: 1713242802,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'D5514175902DC5D3E005261A30CCB9AE',
+    participant: undefined
+  },
+  messageTimestamp: 1713242810,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '5CC884268BB0EEEA96E9EE5FA1BC310A',
+    participant: undefined
+  },
+  messageTimestamp: 1713242821,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'b',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'b',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'FED91DC4BE7AE83D23EE72B68390EE02',
+    participant: undefined
+  },
+  messageTimestamp: 1713242831,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'c',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'c',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'A8C6D6D5936BD2C76DA7F54B0C7551A8',
+    participant: undefined
+  },
+  messageTimestamp: 1713242840,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'd',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'A24B97A0A173643D1CEEE36DC176DA77',
+    participant: undefined
+  },
+  messageTimestamp: 1713242846,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '7156CD5BE8E15A4ACF349E82B69AE3EF',
+    participant: undefined
+  },
+  messageTimestamp: 1713242853,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '51DB822DFB5EE31049F956604056616A',
+    participant: undefined
+  },
+  messageTimestamp: 1713243213,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '4A5AAFCC90D479D84B57FEC8B1AAC3FF',
+    participant: undefined
+  },
+  messageTimestamp: 1713243248,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '21F70EB2F8B7C69AA76AEFB37967855C',
+    participant: undefined
+  },
+  messageTimestamp: 1713243382,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '92D989180C5A2D12829D855BB89AA8C0',
+    participant: undefined
+  },
+  messageTimestamp: 1713243420,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '350A911C64BCDCC067674CD433D276A6',
+    participant: undefined
+  },
+  messageTimestamp: 1713243476,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '7C004A91132B9846D17A396A32546CC1',
+    participant: undefined
+  },
+  messageTimestamp: 1713243482,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'A6CCC6DE9123FCBBC4DFBB52DEE1B66E',
+    participant: undefined
+  },
+  messageTimestamp: 1713243633,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'CFE33317FF0671E9BEA21DA5AA3E6B44',
+    participant: undefined
+  },
+  messageTimestamp: 1713243637,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'A5391F262B6B84806E08DD001D5897AB',
+    participant: undefined
+  },
+  messageTimestamp: 1713243644,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '8D5212A62543C6EE2CCD5E182642334D',
+    participant: undefined
+  },
+  messageTimestamp: 1713243650,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '38BEF9371C47F91356254EC99D8B4F62',
+    participant: undefined
+  },
+  messageTimestamp: 1713243662,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'd',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '581AA54167355C4767CD67869B6B8C33',
+    participant: undefined
+  },
+  messageTimestamp: 1713243676,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'FD976AF00097D8D8B6B901EA3DDEEA21',
+    participant: undefined
+  },
+  messageTimestamp: 1713243682,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '4D62F2C1AC49CB38700E9BB4C72AEC32',
+    participant: undefined
+  },
+  messageTimestamp: 1713243699,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'A7F0F28A93F73150CA215CDB860F9BAE',
+    participant: undefined
+  },
+  messageTimestamp: 1713243722,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'F1E97494EA4F38005E1932E73276BA28',
+    participant: undefined
+  },
+  messageTimestamp: 1713243731,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '310C98530DA0C325A18EA942380FA64A',
+    participant: undefined
+  },
+  messageTimestamp: 1713243738,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: 'D9C010447FD199F99AEFDA6507D04673',
+    participant: undefined
+  },
+  messageTimestamp: 1713243781,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pedro Pérez',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pedro Pérez',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573052581186@s.whatsapp.net',
+    fromMe: false,
+    id: '5E1B73AB79700D17AA6B19EFDD928682',
+    participant: undefined
+  },
+  messageTimestamp: 1713243786,
+  pushName: 'Julián Giraldo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Barrio limonar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Barrio limonar',
+  from: '573052581186'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9cd1f290-200b-42da-8d4a-1fa398e9abe2',
+  keyword: 'key_766b02ba-df46-4c98-970b-a0e0c27082ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '86baf46af55246321ecc13ae8b599df4'
+}
